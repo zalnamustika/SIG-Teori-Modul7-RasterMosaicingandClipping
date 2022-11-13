@@ -1,0 +1,1 @@
+# SIG-Teori-Modul7-RasterMosaicingandClipping
